@@ -1,4 +1,4 @@
-# InerG_IR_System
+# InerG_IR_System-Partially Completed
 
 
 This README provides a detailed explanation of the **Data Acquisition → Text Preprocessing → Sliding Window Chunking → Embedding → Indexing → Retrieval** workflow, including **mathematical concepts, formulas, and tools used**.
